@@ -1,5 +1,8 @@
 # express-joi-verification
 
+<a href="https://www.npmjs.com/package/express-joi-verification"><img src="https://img.shields.io/npm/v/express-joi-verification.svg" alt="Version"></a>
+<a href="https://www.npmjs.com/package/express-joi-verification"><img src="https://img.shields.io/npm/l/express-joi-verification.svg" alt="License"></a>
+
 > Express Middleware for verification querystring params and body by Joi
 
 ## Installation
