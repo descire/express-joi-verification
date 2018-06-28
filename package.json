@@ -1,0 +1,33 @@
+{
+  "name": "express-joi-verification",
+  "version": "1.0.0",
+  "description": "Express Middleware for verification querystring params and body by Joi",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "coverage": "istanbul cover _mocha -- -u exports -R spec"
+  },
+  "keywords": [
+    "express",
+    "joi",
+    "verification",
+    "validate",
+    "validator"
+  ],
+  "author": "daiqingyun 15751165579@163.com",
+  "license": "MIT",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "chai": "^4.1.2",
+    "express": "^4.16.3",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0",
+    "supertest": "^3.1.0"
+  },
+  "dependencies": {
+    "joi": "^13.4.0"
+  },
+  "engines": {
+    "node": ">=8.11.3"
+  }
+}
