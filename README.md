@@ -4,6 +4,7 @@
 <a href="https://www.npmjs.com/package/express-joi-verification"><img src="https://img.shields.io/npm/l/express-joi-verification.svg" alt="License"></a>
 <a href="https://www.npmjs.com/package/express-joi-verification"><img src="https://img.shields.io/npm/dm/express-joi-verification.svg" alt="Downloads"></a>
 [![Build Status](https://travis-ci.org/15751165579/express-joi-verification.svg?branch=master)](https://travis-ci.org/)
+[![Coverage Status](https://coveralls.io/repos/github/15751165579/express-joi-verification/badge.svg?branch=master)](https://coveralls.io/github/15751165579/express-joi-verification?branch=master)
 
 > Express Middleware for verification querystring params and body by Joi
 
